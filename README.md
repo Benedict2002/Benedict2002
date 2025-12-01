@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Benedict Juma</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **React, Spring ...**
+- 🌱 I’m Full Stack Developer **React, Spring ...**
 
 - 👯 I’m looking to work with any project that's of great impact to the society **...**
 
